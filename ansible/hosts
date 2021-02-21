@@ -1,0 +1,2 @@
+[linuxvm]
+172.17.177.41 ansible_user=vagrant ansible_ssh_private_key_file="/home/richard/testes/projeto_iac/.vagrant/machines/linux/virtualbox/private_key"
